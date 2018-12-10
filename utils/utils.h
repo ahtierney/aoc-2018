@@ -4,6 +4,7 @@
 
 #include "BSTNode.h"
 #include "Grid.h"
+#include "HashTable.h"
 #include "printhelpers.h"
 
 #endif
